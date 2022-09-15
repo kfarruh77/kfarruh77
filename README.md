@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kfarruh77
-- 👀 I’m interested in software engineering, mainly app building.
-- 🌱 I’m currently learning computer science at City College of New York!
+- 👀 I’m interested in software engineering, mainly Full Stack Development.
+- 🌱 I’m recent graduate from City College of New York with a bachelor of science degree in computer science!
 
 
 <!---
